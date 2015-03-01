@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>08E118D5-5769-4579-AF29-AF49C9AD2CA4</string>
+	<key>IDESourceControlProjectName</key>
+	<string>Zimbo</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>0B53AAA46E6D158DB6B03AB5A5EA74873D51730A</key>
+		<string>https://github.com/yilmazdilek/zimbo.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>Zimbo/Zimbo.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>0B53AAA46E6D158DB6B03AB5A5EA74873D51730A</key>
+		<string>../../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/yilmazdilek/zimbo.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>0B53AAA46E6D158DB6B03AB5A5EA74873D51730A</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>0B53AAA46E6D158DB6B03AB5A5EA74873D51730A</string>
+			<key>IDESourceControlWCCName</key>
+			<string>zimbo2</string>
+		</dict>
+	</array>
+</dict>
+</plist>
