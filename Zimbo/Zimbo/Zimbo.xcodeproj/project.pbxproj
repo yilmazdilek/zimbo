@@ -168,6 +168,7 @@
 				TargetAttributes = {
 					12300CDF1AA35BF500CA48DE = {
 						CreatedOnToolsVersion = 6.1.1;
+						DevelopmentTeam = 546286JXC7;
 					};
 					12300CF81AA35BF500CA48DE = {
 						CreatedOnToolsVersion = 6.1.1;
@@ -344,6 +345,7 @@
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				INFOPLIST_FILE = Zimbo/Info.plist;
+				IPHONEOS_DEPLOYMENT_TARGET = 7.0;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_NAME = "$(TARGET_NAME)";
 			};
@@ -354,6 +356,7 @@
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				INFOPLIST_FILE = Zimbo/Info.plist;
+				IPHONEOS_DEPLOYMENT_TARGET = 7.0;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_NAME = "$(TARGET_NAME)";
 			};
@@ -412,6 +415,7 @@
 				12300D051AA35BF500CA48DE /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		12300D061AA35BF500CA48DE /* Build configuration list for PBXNativeTarget "ZimboTests" */ = {
 			isa = XCConfigurationList;
@@ -420,6 +424,7 @@
 				12300D081AA35BF500CA48DE /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
