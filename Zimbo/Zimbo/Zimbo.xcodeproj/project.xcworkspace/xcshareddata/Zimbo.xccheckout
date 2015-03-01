@@ -5,7 +5,7 @@
 	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
 	<false/>
 	<key>IDESourceControlProjectIdentifier</key>
-	<string>08E118D5-5769-4579-AF29-AF49C9AD2CA4</string>
+	<string>25D76722-91FD-4E5A-9EED-049500981CC3</string>
 	<key>IDESourceControlProjectName</key>
 	<string>Zimbo</string>
 	<key>IDESourceControlProjectOriginsDictionary</key>
@@ -14,11 +14,11 @@
 		<string>https://github.com/yilmazdilek/zimbo.git</string>
 	</dict>
 	<key>IDESourceControlProjectPath</key>
-	<string>Zimbo/Zimbo.xcodeproj</string>
+	<string>Zimbo/Zimbo/Zimbo.xcodeproj</string>
 	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
 	<dict>
 		<key>0B53AAA46E6D158DB6B03AB5A5EA74873D51730A</key>
-		<string>../../..</string>
+		<string>../../../..</string>
 	</dict>
 	<key>IDESourceControlProjectURL</key>
 	<string>https://github.com/yilmazdilek/zimbo.git</string>

@@ -14,7 +14,7 @@
             buildForAnalyzing = "YES">
             <BuildableReference
                BuildableIdentifier = "primary"
-               BlueprintIdentifier = "12300CAD1AA35B4E00CA48DE"
+               BlueprintIdentifier = "12300CDF1AA35BF500CA48DE"
                BuildableName = "Zimbo.app"
                BlueprintName = "Zimbo"
                ReferencedContainer = "container:Zimbo.xcodeproj">
@@ -28,7 +28,7 @@
             buildForAnalyzing = "YES">
             <BuildableReference
                BuildableIdentifier = "primary"
-               BlueprintIdentifier = "12300CC61AA35B4E00CA48DE"
+               BlueprintIdentifier = "12300CF81AA35BF500CA48DE"
                BuildableName = "ZimboTests.xctest"
                BlueprintName = "ZimboTests"
                ReferencedContainer = "container:Zimbo.xcodeproj">
@@ -46,7 +46,7 @@
             skipped = "NO">
             <BuildableReference
                BuildableIdentifier = "primary"
-               BlueprintIdentifier = "12300CC61AA35B4E00CA48DE"
+               BlueprintIdentifier = "12300CF81AA35BF500CA48DE"
                BuildableName = "ZimboTests.xctest"
                BlueprintName = "ZimboTests"
                ReferencedContainer = "container:Zimbo.xcodeproj">
@@ -56,7 +56,7 @@
       <MacroExpansion>
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "12300CAD1AA35B4E00CA48DE"
+            BlueprintIdentifier = "12300CDF1AA35BF500CA48DE"
             BuildableName = "Zimbo.app"
             BlueprintName = "Zimbo"
             ReferencedContainer = "container:Zimbo.xcodeproj">
@@ -75,7 +75,7 @@
       <BuildableProductRunnable>
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "12300CAD1AA35B4E00CA48DE"
+            BlueprintIdentifier = "12300CDF1AA35BF500CA48DE"
             BuildableName = "Zimbo.app"
             BlueprintName = "Zimbo"
             ReferencedContainer = "container:Zimbo.xcodeproj">
@@ -93,7 +93,7 @@
       <BuildableProductRunnable>
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "12300CAD1AA35B4E00CA48DE"
+            BlueprintIdentifier = "12300CDF1AA35BF500CA48DE"
             BuildableName = "Zimbo.app"
             BlueprintName = "Zimbo"
             ReferencedContainer = "container:Zimbo.xcodeproj">

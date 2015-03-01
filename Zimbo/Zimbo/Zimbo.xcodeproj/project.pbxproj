@@ -7,50 +7,50 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		12300CB41AA35B4E00CA48DE /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 12300CB31AA35B4E00CA48DE /* main.m */; };
-		12300CB71AA35B4E00CA48DE /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = 12300CB61AA35B4E00CA48DE /* AppDelegate.m */; };
-		12300CBA1AA35B4E00CA48DE /* ViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 12300CB91AA35B4E00CA48DE /* ViewController.m */; };
-		12300CBD1AA35B4E00CA48DE /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 12300CBB1AA35B4E00CA48DE /* Main.storyboard */; };
-		12300CBF1AA35B4E00CA48DE /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 12300CBE1AA35B4E00CA48DE /* Images.xcassets */; };
-		12300CC21AA35B4E00CA48DE /* LaunchScreen.xib in Resources */ = {isa = PBXBuildFile; fileRef = 12300CC01AA35B4E00CA48DE /* LaunchScreen.xib */; };
-		12300CCE1AA35B4E00CA48DE /* ZimboTests.m in Sources */ = {isa = PBXBuildFile; fileRef = 12300CCD1AA35B4E00CA48DE /* ZimboTests.m */; };
+		12300CE61AA35BF500CA48DE /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 12300CE51AA35BF500CA48DE /* main.m */; };
+		12300CE91AA35BF500CA48DE /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = 12300CE81AA35BF500CA48DE /* AppDelegate.m */; };
+		12300CEC1AA35BF500CA48DE /* ViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 12300CEB1AA35BF500CA48DE /* ViewController.m */; };
+		12300CEF1AA35BF500CA48DE /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 12300CED1AA35BF500CA48DE /* Main.storyboard */; };
+		12300CF11AA35BF500CA48DE /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 12300CF01AA35BF500CA48DE /* Images.xcassets */; };
+		12300CF41AA35BF500CA48DE /* LaunchScreen.xib in Resources */ = {isa = PBXBuildFile; fileRef = 12300CF21AA35BF500CA48DE /* LaunchScreen.xib */; };
+		12300D001AA35BF500CA48DE /* ZimboTests.m in Sources */ = {isa = PBXBuildFile; fileRef = 12300CFF1AA35BF500CA48DE /* ZimboTests.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
-		12300CC81AA35B4E00CA48DE /* PBXContainerItemProxy */ = {
+		12300CFA1AA35BF500CA48DE /* PBXContainerItemProxy */ = {
 			isa = PBXContainerItemProxy;
-			containerPortal = 12300CA61AA35B4E00CA48DE /* Project object */;
+			containerPortal = 12300CD81AA35BF500CA48DE /* Project object */;
 			proxyType = 1;
-			remoteGlobalIDString = 12300CAD1AA35B4E00CA48DE;
+			remoteGlobalIDString = 12300CDF1AA35BF500CA48DE;
 			remoteInfo = Zimbo;
 		};
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
-		12300CAE1AA35B4E00CA48DE /* Zimbo.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Zimbo.app; sourceTree = BUILT_PRODUCTS_DIR; };
-		12300CB21AA35B4E00CA48DE /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
-		12300CB31AA35B4E00CA48DE /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
-		12300CB51AA35B4E00CA48DE /* AppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = AppDelegate.h; sourceTree = "<group>"; };
-		12300CB61AA35B4E00CA48DE /* AppDelegate.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = AppDelegate.m; sourceTree = "<group>"; };
-		12300CB81AA35B4E00CA48DE /* ViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = ViewController.h; sourceTree = "<group>"; };
-		12300CB91AA35B4E00CA48DE /* ViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = ViewController.m; sourceTree = "<group>"; };
-		12300CBC1AA35B4E00CA48DE /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
-		12300CBE1AA35B4E00CA48DE /* Images.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Images.xcassets; sourceTree = "<group>"; };
-		12300CC11AA35B4E00CA48DE /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.xib; name = Base; path = Base.lproj/LaunchScreen.xib; sourceTree = "<group>"; };
-		12300CC71AA35B4E00CA48DE /* ZimboTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = ZimboTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
-		12300CCC1AA35B4E00CA48DE /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
-		12300CCD1AA35B4E00CA48DE /* ZimboTests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = ZimboTests.m; sourceTree = "<group>"; };
+		12300CE01AA35BF500CA48DE /* Zimbo.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Zimbo.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		12300CE41AA35BF500CA48DE /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		12300CE51AA35BF500CA48DE /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
+		12300CE71AA35BF500CA48DE /* AppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = AppDelegate.h; sourceTree = "<group>"; };
+		12300CE81AA35BF500CA48DE /* AppDelegate.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = AppDelegate.m; sourceTree = "<group>"; };
+		12300CEA1AA35BF500CA48DE /* ViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = ViewController.h; sourceTree = "<group>"; };
+		12300CEB1AA35BF500CA48DE /* ViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = ViewController.m; sourceTree = "<group>"; };
+		12300CEE1AA35BF500CA48DE /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
+		12300CF01AA35BF500CA48DE /* Images.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Images.xcassets; sourceTree = "<group>"; };
+		12300CF31AA35BF500CA48DE /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.xib; name = Base; path = Base.lproj/LaunchScreen.xib; sourceTree = "<group>"; };
+		12300CF91AA35BF500CA48DE /* ZimboTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = ZimboTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
+		12300CFE1AA35BF500CA48DE /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		12300CFF1AA35BF500CA48DE /* ZimboTests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = ZimboTests.m; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
-		12300CAB1AA35B4E00CA48DE /* Frameworks */ = {
+		12300CDD1AA35BF500CA48DE /* Frameworks */ = {
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
-		12300CC41AA35B4E00CA48DE /* Frameworks */ = {
+		12300CF61AA35BF500CA48DE /* Frameworks */ = {
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
@@ -60,61 +60,61 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
-		12300CA51AA35B4E00CA48DE = {
+		12300CD71AA35BF500CA48DE = {
 			isa = PBXGroup;
 			children = (
-				12300CB01AA35B4E00CA48DE /* Zimbo */,
-				12300CCA1AA35B4E00CA48DE /* ZimboTests */,
-				12300CAF1AA35B4E00CA48DE /* Products */,
+				12300CE21AA35BF500CA48DE /* Zimbo */,
+				12300CFC1AA35BF500CA48DE /* ZimboTests */,
+				12300CE11AA35BF500CA48DE /* Products */,
 			);
 			sourceTree = "<group>";
 		};
-		12300CAF1AA35B4E00CA48DE /* Products */ = {
+		12300CE11AA35BF500CA48DE /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				12300CAE1AA35B4E00CA48DE /* Zimbo.app */,
-				12300CC71AA35B4E00CA48DE /* ZimboTests.xctest */,
+				12300CE01AA35BF500CA48DE /* Zimbo.app */,
+				12300CF91AA35BF500CA48DE /* ZimboTests.xctest */,
 			);
 			name = Products;
 			sourceTree = "<group>";
 		};
-		12300CB01AA35B4E00CA48DE /* Zimbo */ = {
+		12300CE21AA35BF500CA48DE /* Zimbo */ = {
 			isa = PBXGroup;
 			children = (
-				12300CB51AA35B4E00CA48DE /* AppDelegate.h */,
-				12300CB61AA35B4E00CA48DE /* AppDelegate.m */,
-				12300CB81AA35B4E00CA48DE /* ViewController.h */,
-				12300CB91AA35B4E00CA48DE /* ViewController.m */,
-				12300CBB1AA35B4E00CA48DE /* Main.storyboard */,
-				12300CBE1AA35B4E00CA48DE /* Images.xcassets */,
-				12300CC01AA35B4E00CA48DE /* LaunchScreen.xib */,
-				12300CB11AA35B4E00CA48DE /* Supporting Files */,
+				12300CE71AA35BF500CA48DE /* AppDelegate.h */,
+				12300CE81AA35BF500CA48DE /* AppDelegate.m */,
+				12300CEA1AA35BF500CA48DE /* ViewController.h */,
+				12300CEB1AA35BF500CA48DE /* ViewController.m */,
+				12300CED1AA35BF500CA48DE /* Main.storyboard */,
+				12300CF01AA35BF500CA48DE /* Images.xcassets */,
+				12300CF21AA35BF500CA48DE /* LaunchScreen.xib */,
+				12300CE31AA35BF500CA48DE /* Supporting Files */,
 			);
 			path = Zimbo;
 			sourceTree = "<group>";
 		};
-		12300CB11AA35B4E00CA48DE /* Supporting Files */ = {
+		12300CE31AA35BF500CA48DE /* Supporting Files */ = {
 			isa = PBXGroup;
 			children = (
-				12300CB21AA35B4E00CA48DE /* Info.plist */,
-				12300CB31AA35B4E00CA48DE /* main.m */,
+				12300CE41AA35BF500CA48DE /* Info.plist */,
+				12300CE51AA35BF500CA48DE /* main.m */,
 			);
 			name = "Supporting Files";
 			sourceTree = "<group>";
 		};
-		12300CCA1AA35B4E00CA48DE /* ZimboTests */ = {
+		12300CFC1AA35BF500CA48DE /* ZimboTests */ = {
 			isa = PBXGroup;
 			children = (
-				12300CCD1AA35B4E00CA48DE /* ZimboTests.m */,
-				12300CCB1AA35B4E00CA48DE /* Supporting Files */,
+				12300CFF1AA35BF500CA48DE /* ZimboTests.m */,
+				12300CFD1AA35BF500CA48DE /* Supporting Files */,
 			);
 			path = ZimboTests;
 			sourceTree = "<group>";
 		};
-		12300CCB1AA35B4E00CA48DE /* Supporting Files */ = {
+		12300CFD1AA35BF500CA48DE /* Supporting Files */ = {
 			isa = PBXGroup;
 			children = (
-				12300CCC1AA35B4E00CA48DE /* Info.plist */,
+				12300CFE1AA35BF500CA48DE /* Info.plist */,
 			);
 			name = "Supporting Files";
 			sourceTree = "<group>";
@@ -122,13 +122,13 @@
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
-		12300CAD1AA35B4E00CA48DE /* Zimbo */ = {
+		12300CDF1AA35BF500CA48DE /* Zimbo */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = 12300CD11AA35B4E00CA48DE /* Build configuration list for PBXNativeTarget "Zimbo" */;
+			buildConfigurationList = 12300D031AA35BF500CA48DE /* Build configuration list for PBXNativeTarget "Zimbo" */;
 			buildPhases = (
-				12300CAA1AA35B4E00CA48DE /* Sources */,
-				12300CAB1AA35B4E00CA48DE /* Frameworks */,
-				12300CAC1AA35B4E00CA48DE /* Resources */,
+				12300CDC1AA35BF500CA48DE /* Sources */,
+				12300CDD1AA35BF500CA48DE /* Frameworks */,
+				12300CDE1AA35BF500CA48DE /* Resources */,
 			);
 			buildRules = (
 			);
@@ -136,46 +136,46 @@
 			);
 			name = Zimbo;
 			productName = Zimbo;
-			productReference = 12300CAE1AA35B4E00CA48DE /* Zimbo.app */;
+			productReference = 12300CE01AA35BF500CA48DE /* Zimbo.app */;
 			productType = "com.apple.product-type.application";
 		};
-		12300CC61AA35B4E00CA48DE /* ZimboTests */ = {
+		12300CF81AA35BF500CA48DE /* ZimboTests */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = 12300CD41AA35B4E00CA48DE /* Build configuration list for PBXNativeTarget "ZimboTests" */;
+			buildConfigurationList = 12300D061AA35BF500CA48DE /* Build configuration list for PBXNativeTarget "ZimboTests" */;
 			buildPhases = (
-				12300CC31AA35B4E00CA48DE /* Sources */,
-				12300CC41AA35B4E00CA48DE /* Frameworks */,
-				12300CC51AA35B4E00CA48DE /* Resources */,
+				12300CF51AA35BF500CA48DE /* Sources */,
+				12300CF61AA35BF500CA48DE /* Frameworks */,
+				12300CF71AA35BF500CA48DE /* Resources */,
 			);
 			buildRules = (
 			);
 			dependencies = (
-				12300CC91AA35B4E00CA48DE /* PBXTargetDependency */,
+				12300CFB1AA35BF500CA48DE /* PBXTargetDependency */,
 			);
 			name = ZimboTests;
 			productName = ZimboTests;
-			productReference = 12300CC71AA35B4E00CA48DE /* ZimboTests.xctest */;
+			productReference = 12300CF91AA35BF500CA48DE /* ZimboTests.xctest */;
 			productType = "com.apple.product-type.bundle.unit-test";
 		};
 /* End PBXNativeTarget section */
 
 /* Begin PBXProject section */
-		12300CA61AA35B4E00CA48DE /* Project object */ = {
+		12300CD81AA35BF500CA48DE /* Project object */ = {
 			isa = PBXProject;
 			attributes = {
 				LastUpgradeCheck = 0610;
-				ORGANIZATIONNAME = dilekyilmaz;
+				ORGANIZATIONNAME = dilekmehel;
 				TargetAttributes = {
-					12300CAD1AA35B4E00CA48DE = {
+					12300CDF1AA35BF500CA48DE = {
 						CreatedOnToolsVersion = 6.1.1;
 					};
-					12300CC61AA35B4E00CA48DE = {
+					12300CF81AA35BF500CA48DE = {
 						CreatedOnToolsVersion = 6.1.1;
-						TestTargetID = 12300CAD1AA35B4E00CA48DE;
+						TestTargetID = 12300CDF1AA35BF500CA48DE;
 					};
 				};
 			};
-			buildConfigurationList = 12300CA91AA35B4E00CA48DE /* Build configuration list for PBXProject "Zimbo" */;
+			buildConfigurationList = 12300CDB1AA35BF500CA48DE /* Build configuration list for PBXProject "Zimbo" */;
 			compatibilityVersion = "Xcode 3.2";
 			developmentRegion = English;
 			hasScannedForEncodings = 0;
@@ -183,29 +183,29 @@
 				en,
 				Base,
 			);
-			mainGroup = 12300CA51AA35B4E00CA48DE;
-			productRefGroup = 12300CAF1AA35B4E00CA48DE /* Products */;
+			mainGroup = 12300CD71AA35BF500CA48DE;
+			productRefGroup = 12300CE11AA35BF500CA48DE /* Products */;
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
-				12300CAD1AA35B4E00CA48DE /* Zimbo */,
-				12300CC61AA35B4E00CA48DE /* ZimboTests */,
+				12300CDF1AA35BF500CA48DE /* Zimbo */,
+				12300CF81AA35BF500CA48DE /* ZimboTests */,
 			);
 		};
 /* End PBXProject section */
 
 /* Begin PBXResourcesBuildPhase section */
-		12300CAC1AA35B4E00CA48DE /* Resources */ = {
+		12300CDE1AA35BF500CA48DE /* Resources */ = {
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				12300CBD1AA35B4E00CA48DE /* Main.storyboard in Resources */,
-				12300CC21AA35B4E00CA48DE /* LaunchScreen.xib in Resources */,
-				12300CBF1AA35B4E00CA48DE /* Images.xcassets in Resources */,
+				12300CEF1AA35BF500CA48DE /* Main.storyboard in Resources */,
+				12300CF41AA35BF500CA48DE /* LaunchScreen.xib in Resources */,
+				12300CF11AA35BF500CA48DE /* Images.xcassets in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
-		12300CC51AA35B4E00CA48DE /* Resources */ = {
+		12300CF71AA35BF500CA48DE /* Resources */ = {
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
@@ -215,47 +215,47 @@
 /* End PBXResourcesBuildPhase section */
 
 /* Begin PBXSourcesBuildPhase section */
-		12300CAA1AA35B4E00CA48DE /* Sources */ = {
+		12300CDC1AA35BF500CA48DE /* Sources */ = {
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				12300CBA1AA35B4E00CA48DE /* ViewController.m in Sources */,
-				12300CB71AA35B4E00CA48DE /* AppDelegate.m in Sources */,
-				12300CB41AA35B4E00CA48DE /* main.m in Sources */,
+				12300CEC1AA35BF500CA48DE /* ViewController.m in Sources */,
+				12300CE91AA35BF500CA48DE /* AppDelegate.m in Sources */,
+				12300CE61AA35BF500CA48DE /* main.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
-		12300CC31AA35B4E00CA48DE /* Sources */ = {
+		12300CF51AA35BF500CA48DE /* Sources */ = {
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				12300CCE1AA35B4E00CA48DE /* ZimboTests.m in Sources */,
+				12300D001AA35BF500CA48DE /* ZimboTests.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
 /* End PBXSourcesBuildPhase section */
 
 /* Begin PBXTargetDependency section */
-		12300CC91AA35B4E00CA48DE /* PBXTargetDependency */ = {
+		12300CFB1AA35BF500CA48DE /* PBXTargetDependency */ = {
 			isa = PBXTargetDependency;
-			target = 12300CAD1AA35B4E00CA48DE /* Zimbo */;
-			targetProxy = 12300CC81AA35B4E00CA48DE /* PBXContainerItemProxy */;
+			target = 12300CDF1AA35BF500CA48DE /* Zimbo */;
+			targetProxy = 12300CFA1AA35BF500CA48DE /* PBXContainerItemProxy */;
 		};
 /* End PBXTargetDependency section */
 
 /* Begin PBXVariantGroup section */
-		12300CBB1AA35B4E00CA48DE /* Main.storyboard */ = {
+		12300CED1AA35BF500CA48DE /* Main.storyboard */ = {
 			isa = PBXVariantGroup;
 			children = (
-				12300CBC1AA35B4E00CA48DE /* Base */,
+				12300CEE1AA35BF500CA48DE /* Base */,
 			);
 			name = Main.storyboard;
 			sourceTree = "<group>";
 		};
-		12300CC01AA35B4E00CA48DE /* LaunchScreen.xib */ = {
+		12300CF21AA35BF500CA48DE /* LaunchScreen.xib */ = {
 			isa = PBXVariantGroup;
 			children = (
-				12300CC11AA35B4E00CA48DE /* Base */,
+				12300CF31AA35BF500CA48DE /* Base */,
 			);
 			name = LaunchScreen.xib;
 			sourceTree = "<group>";
@@ -263,7 +263,7 @@
 /* End PBXVariantGroup section */
 
 /* Begin XCBuildConfiguration section */
-		12300CCF1AA35B4E00CA48DE /* Debug */ = {
+		12300D011AA35BF500CA48DE /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_SEARCH_USER_PATHS = NO;
@@ -304,7 +304,7 @@
 			};
 			name = Debug;
 		};
-		12300CD01AA35B4E00CA48DE /* Release */ = {
+		12300D021AA35BF500CA48DE /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_SEARCH_USER_PATHS = NO;
@@ -339,7 +339,7 @@
 			};
 			name = Release;
 		};
-		12300CD21AA35B4E00CA48DE /* Debug */ = {
+		12300D041AA35BF500CA48DE /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
@@ -349,7 +349,7 @@
 			};
 			name = Debug;
 		};
-		12300CD31AA35B4E00CA48DE /* Release */ = {
+		12300D051AA35BF500CA48DE /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
@@ -359,7 +359,7 @@
 			};
 			name = Release;
 		};
-		12300CD51AA35B4E00CA48DE /* Debug */ = {
+		12300D071AA35BF500CA48DE /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				BUNDLE_LOADER = "$(TEST_HOST)";
@@ -378,7 +378,7 @@
 			};
 			name = Debug;
 		};
-		12300CD61AA35B4E00CA48DE /* Release */ = {
+		12300D081AA35BF500CA48DE /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				BUNDLE_LOADER = "$(TEST_HOST)";
@@ -396,32 +396,32 @@
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		12300CA91AA35B4E00CA48DE /* Build configuration list for PBXProject "Zimbo" */ = {
+		12300CDB1AA35BF500CA48DE /* Build configuration list for PBXProject "Zimbo" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
-				12300CCF1AA35B4E00CA48DE /* Debug */,
-				12300CD01AA35B4E00CA48DE /* Release */,
+				12300D011AA35BF500CA48DE /* Debug */,
+				12300D021AA35BF500CA48DE /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		12300CD11AA35B4E00CA48DE /* Build configuration list for PBXNativeTarget "Zimbo" */ = {
+		12300D031AA35BF500CA48DE /* Build configuration list for PBXNativeTarget "Zimbo" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
-				12300CD21AA35B4E00CA48DE /* Debug */,
-				12300CD31AA35B4E00CA48DE /* Release */,
+				12300D041AA35BF500CA48DE /* Debug */,
+				12300D051AA35BF500CA48DE /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 		};
-		12300CD41AA35B4E00CA48DE /* Build configuration list for PBXNativeTarget "ZimboTests" */ = {
+		12300D061AA35BF500CA48DE /* Build configuration list for PBXNativeTarget "ZimboTests" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
-				12300CD51AA35B4E00CA48DE /* Debug */,
-				12300CD61AA35B4E00CA48DE /* Release */,
+				12300D071AA35BF500CA48DE /* Debug */,
+				12300D081AA35BF500CA48DE /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 		};
 /* End XCConfigurationList section */
 	};
-	rootObject = 12300CA61AA35B4E00CA48DE /* Project object */;
+	rootObject = 12300CD81AA35BF500CA48DE /* Project object */;
 }
